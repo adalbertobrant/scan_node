@@ -74,7 +74,7 @@ The current stable version is **v3.0** (`scanner_v3.js`), which introduces safe 
 No installation step is necessary. Clone or download the repository and execute the scanner directly:
 
 ```bash
-git clone https://github.com/user/scan_node.git
+git clone https://github.com/adalbertobrant/scan_node.git
 cd scan_node
 node scanner_v3.js --help
 ```
